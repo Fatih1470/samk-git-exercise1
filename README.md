@@ -1,3 +1,3 @@
 # My New Project
-j
+This is the main branch
 # samk-git-exercise1
