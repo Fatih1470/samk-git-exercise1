@@ -1,3 +1,3 @@
 # My New Project
-j
+Branch for new feature
 # samk-git-exercise1
